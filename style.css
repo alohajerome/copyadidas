@@ -17,12 +17,15 @@ body {
   color: #4B4950F5;
   font-size: xx-large;
   padding-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 h3 {
   text-align: center;
   color: #ca6a1c;
-
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .header3 {
@@ -42,11 +45,14 @@ h3 {
 
 ui.equal.width.grid {
   margin-top: 10px;
+
 }
 
 h4, p {
   font-size: large;
   text-align: center;
+  margin-left: 35px;
+  margin-right: 35px;
 }
 .supercar {
   margin-top: -500px;
@@ -76,7 +82,6 @@ h4, p {
 }
 
 .ui.container3 {
-  color: white;
   margin-top: 50px;
   margin-left: 200px;
   margin-right: 200px;
