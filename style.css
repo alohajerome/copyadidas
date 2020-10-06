@@ -1,0 +1,25 @@
+body {
+  background-size: auto;
+
+}
+
+.ui.borderless.topmenu.menu. {
+  color: red !important;
+  background-color: rgba(255,255,255,0);
+  box-shadow: none;
+  border: none;
+
+}
+
+.ui.borderless.topmenu.menu.item {
+  color: red !important;
+}
+
+.ui.centered.header {
+  color: #4B4950F5;
+  font-size: x-large;
+}
+
+.supercar {
+  margin-top: -500px;
+}
