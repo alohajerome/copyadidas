@@ -67,3 +67,23 @@ h4, p {
   text-align: center;
   color: rgba(255,255,255,.4);
 }
+
+.ui.container2 {
+  color: rgba(255,255,255,.8);
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.ui.container3 {
+  color: white;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.bottom {
+  color: #FFFFFF66;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
