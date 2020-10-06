@@ -5,7 +5,7 @@ body {
 
 .ui.borderless.topmenu.menu. {
   color: red !important;
-  background-color: rgba(255,255,255,0);
+  background-color: rgba(255, 255, 255, 0);
   box-shadow: none;
   border: none;
 
@@ -13,10 +13,57 @@ body {
 
 
 .ui.centered.header {
+  font-family: "Freight Sans Pro",sans-serif;
   color: #4B4950F5;
-  font-size: x-large;
+  font-size: xx-large;
+  padding-top: 100px;
 }
 
+h3 {
+  text-align: center;
+  color: #ca6a1c;
+
+}
+
+.header3 {
+  text-align: center;
+  color: rgba(28,28,28,.9);
+
+}
+
+.big.ui.orange.inverted.button {
+  width: 25%;
+  padding: 22px 32px;
+  margin-left: 38%;
+  margin-right: 40%;
+  margin-top: 10px;
+
+}
+
+ui.equal.width.grid {
+  margin-top: 10px;
+}
+
+h4, p {
+  font-size: large;
+  text-align: center;
+}
 .supercar {
   margin-top: -500px;
+  width: 100%;
+}
+
+.footer {
+  background-color: #000;
+  height: 400px;
+  color: #FF0000;
+}
+
+.column {
+  margin-top: 50px;
+}
+
+.header4 {
+  text-align: center;
+  color: rgba(255,255,255,.4);
 }
